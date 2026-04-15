@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "TravelGuru",
+    "slug": "TravelGuru",
+    "scheme": "traveleguru",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#E6F4FE"
+      },
+      "package": "com.halitlua.TravelGuru"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-av"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a0089f4a-ebfe-4944-bf86-619c5d135eef"
+      }
+    }
+  }
+}

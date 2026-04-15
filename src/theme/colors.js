@@ -1,0 +1,15 @@
+export const colors = {
+  sand: '#F5EFE0',
+  sandDark: '#E8DFC8',
+  terra: '#C8622A',
+  terraLight: '#E07A45',
+  terraPale: '#F2D9CA',
+  jade: '#2A7A5C',
+  jadeLight: '#3DA67C',
+  jadePale: '#D4EDE5',
+  ink: '#1A1208',
+  inkMid: '#3D3220',
+  muted: '#8C7D65',
+  white: '#FFFFFF',
+  screenBg: '#F9F5EE',
+};

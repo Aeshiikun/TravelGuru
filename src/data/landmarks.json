@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Rizal Park",
+    "localName": "Luneta Park",
+    "location": "Manila, Philippines",
+    "coordinates": { "lat": 14.5831, "lng": 120.9794 },
+    "year": "1820s",
+    "type": "Historical Park",
+    "emoji": "🌳",
+    "shortDescription": "A large urban park in Manila where national hero José Rizal was executed.",
+    "fullHistory": "Rizal Park, also known as Luneta Park, is a large urban park and historical landmark in Manila, Philippines. It is where national hero José Rizal was executed by the Spanish colonial government on December 30, 1896.",
+    "funFacts": ["José Rizal was executed here at age 35", "The park covers about 58 hectares"],
+    "visitingHours": "Open 24 hours",
+    "ticketPrice": "Free",
+    "tags": ["rizal park", "luneta", "rizal", "philippine", "manila"]
+  },
+  {
+    "id": 2,
+    "name": "Fort Santiago",
+    "localName": "Fuerte de Santiago",
+    "location": "Intramuros, Manila, Philippines",
+    "coordinates": { "lat": 14.5939, "lng": 120.9742 },
+    "year": "1571",
+    "type": "Historic Fortress",
+    "emoji": "🏰",
+    "shortDescription": "A citadel built by Spanish conquistador Miguel López de Legazpi in 1571.",
+    "fullHistory": "Fort Santiago is a citadel first built by Spanish conquistador Miguel López de Legazpi. It served as the seat of power for the colonial government for over 300 years and is where José Rizal was imprisoned before his execution.",
+    "funFacts": ["José Rizal was imprisoned here before his execution", "Thousands of POWs died here during World War II"],
+    "visitingHours": "8:00 AM – 6:00 PM",
+    "ticketPrice": "₱75",
+    "tags": ["fort santiago", "intramuros", "fort", "philippine", "manila"]
+  }
+]
